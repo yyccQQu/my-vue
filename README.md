@@ -1,9 +1,11 @@
 # my-vue
-to---->>>>>  https://github.com/hzzly/MagicMusic
+https://github.com/alsotang/node-lessons
+
 project~
 # 1
-TypeScript
-https://zhongsp.gitbooks.io/typescript-handbook/content/doc/release-notes/TypeScript%202.1.html
+https://github.com/nswbmw/N-blog
+
+NODEJS
 # 2
 Echarts下面有对应的vue react angular 引入的方式。
 https://github.com/ecomfe/echarts
