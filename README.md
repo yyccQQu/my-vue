@@ -1,6 +1,8 @@
 # my-vue
 https://github.com/alsotang/node-lessons
 
+6-05;妙味2014-2015大型公开课
+
 project~
 # 1
 https://github.com/nswbmw/N-blog/blob/master/book/2.3%20Promise.md
