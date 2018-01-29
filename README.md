@@ -3,7 +3,7 @@ https://github.com/alsotang/node-lessons
 
 project~
 # 1
-https://github.com/nswbmw/N-blog
+https://github.com/nswbmw/N-blog/blob/master/book/2.3%20Promise.md
 
 NODEJS
 # 2
