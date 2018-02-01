@@ -18,3 +18,6 @@ http://developer.egret.com/cn/
 
 # 百度课程
 # http://ife.baidu.com
+
+# AJAX
+# https://github.com/YataoZhang/personal_project
