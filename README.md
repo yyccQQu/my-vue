@@ -16,4 +16,5 @@ Egret
 白鹭引擎开发者平台
 http://developer.egret.com/cn/
 
-#http://ife.baidu.com
+# 百度课程
+# http://ife.baidu.com
